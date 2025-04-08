@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ruichen Qu
+ 👋 Hi, I’m Ruichen Qu
 
 ### 🎓 Education  
 - ✅ **Master's** in Mathematics and Applied Mathematics @ [Uppsala University](https://www.uu.se/) (2024–2026)  
