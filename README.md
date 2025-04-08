@@ -1,4 +1,4 @@
- 👋 Hi, I’m Ruichen Qu
+<h1 align="center">👋 Hi, I’m <strong style="color: #0066cc;">Ruichen Qu</strong></h1>
  
 ---
 ### 🎓 Education  
