@@ -6,7 +6,7 @@
 - ✅ **Bachelor's** in Computational Science @ [Shenzhen MSU-BIT University](https://www.msubit.edu.cn/) (2020–2024) 
 
 ### 📬 Contact  
-- 📧 **Email**: ruichen.qu@example.com
+- 📧 **Email**: qruichen0@gmail.com
 
 ---
 ✨ Thanks for visiting! Let's connect and build something awesome. 🚀  
