@@ -1,5 +1,6 @@
  👋 Hi, I’m Ruichen Qu
-
+ 
+---
 ### 🎓 Education  
 - ✅ **Master's** in Mathematics and Applied Mathematics @ [Uppsala University](https://www.uu.se/) (2024–2026)  
 - ✅ **Bachelor's** in Computational Science @ [Shenzhen MSU-BIT University](https://www.msubit.edu.cn/) (2020–2024) 
